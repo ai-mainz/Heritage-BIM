@@ -3144,7 +3144,7 @@ body.abstract-modal-open {
 }
 
 /* =========================================================
-   MOBILE HERO + MENU FIX — 2026-07
+   RESPONSIVE HERO AND MENU ADJUSTMENTS
    Keep this block at the very end of style.css.
    ========================================================= */
 
@@ -4458,8 +4458,7 @@ body {
 /* =========================================================
    Visual identity / typography (formerly brand.css)
    ========================================================= */
-/* FAIR 3D Heritage brand layer
-   Loaded after style.css so the visual identity stays isolated from layout CSS. */
+/* Heritage BIM visual identity and typography, previously maintained in brand.css. */
 
 @font-face {
   font-display: swap;
